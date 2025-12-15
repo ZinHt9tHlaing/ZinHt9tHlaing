@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zin Htet</h1>
-<h3 align="center">I'm passionate about learning new web technologies, with a current focus on the MERN Stack.</h3>
+<h3 align="center">I'm passionate about learning new web technologies.</h3>
 
 - 📫 How to reach me **zinhtethlaing4@gmail.com**
 
