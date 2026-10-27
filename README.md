@@ -24,21 +24,22 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="30" alt="postgresql logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
 </div>
 </p>
 
